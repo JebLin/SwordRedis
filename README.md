@@ -1,0 +1,2 @@
+# SwordRedis
+about the redis
